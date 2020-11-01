@@ -1,0 +1,15 @@
+{
+  "name": "com.craztad.inputhelper",
+  "version": "1.0.0",
+  "displayName": "Input Helper",
+  "discription": "Wraps new unity input system in a more usable class",
+  "unity": "2020.4",
+  "keywords": [],
+  "author": {
+    "name": "tate",
+    "email": "craztad@gmail.com",
+    "url": "https://github.com/tateexon"
+  },
+  "type": "library",
+  "description": "Provides a wrapper around the new input system for quick usage of basic inputs"
+}
