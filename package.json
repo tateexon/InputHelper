@@ -1,6 +1,6 @@
 {
   "name": "com.craztad.inputhelper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Input Helper",
   "discription": "Wraps new unity input system in a more usable class",
   "unity": "2020.4",
