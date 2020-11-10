@@ -1,0 +1,1 @@
+Editor scripts go in this directory

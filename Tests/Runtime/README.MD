@@ -1,0 +1,1 @@
+Game test scripts go in this directory

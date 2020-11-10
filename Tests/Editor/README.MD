@@ -1,0 +1,1 @@
+Editor test scripts go in this directory
