@@ -1,5 +1,4 @@
 ﻿using System.Collections.Generic;
-using UnityEngine;
 using UnityEngine.InputSystem.Controls;
 using static UnityEngine.InputSystem.InputAction;
 

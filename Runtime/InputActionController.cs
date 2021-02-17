@@ -1,8 +1,4 @@
-﻿using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.InputSystem;
-using UnityEngine.InputSystem.Controls;
-using static UnityEngine.InputSystem.InputAction;
+﻿using UnityEngine;
 
 public class InputActionController : MonoBehaviour
 {
